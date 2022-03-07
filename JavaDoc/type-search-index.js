@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"eshop.local.valueObjects","l":"Artikel"}];updateSearchResults();
